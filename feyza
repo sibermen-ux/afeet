@@ -133,7 +133,8 @@
   <div class="window"></div>
   <div class="container">
     <h1>Sevgili Feyza ❤️</h1>
-    <p>Sana yaptığım şey seni üzdüyse çok özür dilerim. Böyle olacağını tahmin etmemiştim.</p>
+    <p>Sana yaptığım şey seni üzdüyse çok özür dilerim.*
+Böyle olacağını tahmin etmemiştim.</p>
     <p>Sen benim için çok özelsin 💕</p>
     <button onclick="showSurprise()">Sürprizi Gör 🎁</button>
     <div id="surprise" style="display:none; margin-top:25px; font-size:1.6em; color:#e91e63; font-weight:bold; text-shadow: 0 0 10px rgba(233,30,99,0.6);">
